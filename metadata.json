@@ -1,0 +1,9 @@
+{
+  "name": "Party Planner Shopping Agent",
+  "description": "An intelligent AI party shopping agent that designs custom party blueprints, calculates exact food & drink portions, generates organized shopping lists by store aisle, and optimizes your budget.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
